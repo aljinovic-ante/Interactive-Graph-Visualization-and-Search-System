@@ -1,6 +1,6 @@
-# Web application for graph visualization and search using Neo4j and d3.js
+# Interactive Graph Visualization and Search System
 
-This project involves the development of a web application designed for graph visualization and search, utilizing Neo4j and D3.js technologies. The application allows users to create their own graphs and visualize various algorithms through dynamic animations, enhancing the learning and understanding of graph theory concepts.
+Web application for graph visualization and search using Neo4j and d3.js - This project involves the development of a web application designed for graph visualization and search, utilizing Neo4j and D3.js technologies. The application allows users to create their own graphs and visualize various algorithms through dynamic animations, enhancing the learning and understanding of graph theory concepts.
 
 # Technologies Used:
 **Neo4j:** 
